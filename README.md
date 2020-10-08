@@ -82,6 +82,6 @@
 
 在断点调试中，得到的欧氏距离r已经是超出了ZDT1中决策变量的范围:
 ![image](http://fanrenkong.oss-cn-hangzhou.aliyuncs.com/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/pic10.png)
-##### 目前的处理办法是通过删除随机扰动来解决的，如果各位有什么办法解决的话，欢迎[与我交流](mailto://kevin@fanrenkong.com)
+##### 目前的处理办法是通过删除随机扰动来解决的，如果各位有什么办法解决的话，欢迎[与我交流](mailto:kevin@fanrenkong.com)
 
 [论文链接](http://www.ejournal.org.cn/CN/abstract/abstract11502.shtml)
